@@ -8,7 +8,7 @@
 
 ### Task
 
-<p>Complete the reverseString function; it has one parameter, . You must perform the following actions:</p>
+<p>Complete the reverseString function; it has one parameter, <b><i>s</i></b>. You must perform the following actions:</p>
 
 1. Try to reverse string <b><i>s</i></b> using the split, reverse, and join methods.
 2. If an exception is thrown, catch it and print the contents of the exception's <b><i>message</i></b> on a new line.
