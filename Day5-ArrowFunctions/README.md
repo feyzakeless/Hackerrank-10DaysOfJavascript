@@ -44,4 +44,4 @@
 
 ### Explanation 0
 
-<p>Given <img src="img/nums.png">, we modify each element so that all even elements are multiplied by <b>2</b> and all odd elements are multipled by <b>3</b>. In other words, <img src="img/nums1.png"> . We then return the modified array as our answer.</p>
+<p>Given <img src="img/nums.PNG">, we modify each element so that all even elements are multiplied by <b>2</b> and all odd elements are multipled by <b>3</b>. In other words, <img src="img/nums1.PNG"> . We then return the modified array as our answer.</p>
